@@ -1,4 +1,4 @@
-# modis-fire-modeling
+# modis-fire-data-clustering
 Experimenting with data collected from NASA's MODIS, a remote sensing data source of wildland fires.
 
 # References
