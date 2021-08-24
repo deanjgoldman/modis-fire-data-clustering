@@ -1,0 +1,6 @@
+reverse_geocoder
+pyshp
+scikit-learn
+pandas
+numpy
+matplotlib
